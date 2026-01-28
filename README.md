@@ -67,7 +67,7 @@ cmake --build build --config Release
 ## 4) Folder layout
 
 ```
-ethbot-split-starter/
+eth_trading_bot/
 ├─ broker/
 │  └─ app.py
 ├─ engine/
